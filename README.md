@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=murtazavadnagar&label=Profile%20views&color=0e75b6&style=flat" alt="murtazavadnagar" /> </p>
 
-- 🔭 I’m currently working on **React,React Native, NodeJS and Python**
+- 🔭 I’m currently working on **React, React Native, NodeJS and Python**
 
 - 🌱 I’m currently learning **Go**
 
-- 👯 I’m looking to collaborate on **Open Source**
+- 👯 I’m looking to collaborate on **....**
 
 - 👨‍💻 All of my projects are available at [https://github.com/murtazavadnagar](https://github.com/murtazavadnagar)
 
-- 💬 Ask me about **React,React Native NodeJS and Python**
+- 💬 Ask me about **React, React Native, NodeJS and Python**
 
 - 📫 How to reach me **vadnagarwalamurtaza@gmail.com**
 
